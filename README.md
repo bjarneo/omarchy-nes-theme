@@ -1,6 +1,6 @@
 # Omarchy nes Theme
 
-This is the nes theme for [Omarchy.org](https://omarchy.org), providing a cohesive and visually appealing configuration set for your Linux desktop environment.
+This is the retro nes theme for [Omarchy.org](https://omarchy.org), providing a visually appealing configuration set for your Linux desktop environment.
 
 <p align="center">
   <img src="theme.png" alt="Nes Theme Preview">
