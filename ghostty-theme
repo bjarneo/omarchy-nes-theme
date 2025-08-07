@@ -1,0 +1,25 @@
+# Ash theme for Ghostty
+
+# Background and foreground colors
+background = #101010
+foreground = #CECFC9
+
+# Standard colors
+palette = 0=#000000
+palette = 1=#D93F37
+palette = 2=#9A9D9A
+palette = 3=#9A9D9A
+palette = 4=#9A9D9A
+palette = 5=#D93F37
+palette = 6=#9A9D9A
+palette = 7=#CECFC9
+
+# Bright colors
+palette = 8=#9A9D9A
+palette = 9=#DA0F0F
+palette = 10=#CECFC9
+palette = 11=#CECFC9
+palette = 12=#CECFC9
+palette = 13=#DA0F0F
+palette = 14=#CECFC9
+palette = 15=#FFFFFF
